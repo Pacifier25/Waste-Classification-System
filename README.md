@@ -87,18 +87,20 @@ git clone https://github.com/Pacifier25/Waste-Classification-System.git
 cd Waste-Classification-System
 ```
 2. **Create Virtual Environment**:
-``bash
+```bash
 Copy code
 python -m venv env
 source env/bin/activate      # For Linux/Mac
 env\Scripts\activate         # For Windows
 ```
+
 3. **Install Dependencies**:
-``bash
+```bash
 pip install -r project_files/requirements.txt
 ```
-``bash
+
 4. **Run the Application**:
+``bash
 streamlit run app.py
 ``
 
@@ -106,7 +108,7 @@ streamlit run app.py
 The application is deployed using Streamlit for easy web access. Future plans include deploying the project on Microsoft Azure for better scalability.
 
 ## 📥 Download
-Click here to download the project files
+**[Click here to download the project files](https://github.com/Pacifier25/Waste-Classification-System/archive/refs/heads/main.zip)**
 
 ## 🙏 Acknowledgements
 - **Dataset**: [Garbage_classification](https://www.kaggle.com/datasets/mostafaabla/garbage-classification).
