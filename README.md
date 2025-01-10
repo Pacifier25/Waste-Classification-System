@@ -47,7 +47,7 @@ The system uses **ResNet50**, a powerful pre-trained Convolutional Neural Networ
 ---
 
 ## 📂 Folder Structure
-
+```
 ├── app.py 
 ├── requirements.txt 
 ├── model 
