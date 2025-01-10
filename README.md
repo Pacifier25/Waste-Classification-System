@@ -10,7 +10,7 @@ The dataset used in this project consists of 15,150 images, originally categoriz
 - **Non-Recyclable Waste**: clothes, shoes, trash  
 - **Organic Waste**: cardboard, paper  
 - **Recyclable Waste**: brown-glass, green-glass, metal, plastic, white-glass
-- 
+  
 This grouping simplifies the classification process while maintaining the essence of the dataset.
 These images have been collected using web scraping techniques for various types of garbage. The goal is to classify the waste into appropriate categories for recycling.
 The dataset provides a broader variety of images, which helps improve the classification and recycling accuracy.
