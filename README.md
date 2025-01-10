@@ -1,6 +1,8 @@
 ## 🌟 Overview
 
-The **Waste Classification System** is an AI-powered tool designed to classify household waste images into different categories for effective recycling. By categorizing waste into specific classes, the system aids in improving the recycling process and contributing to environmental conservation.
+The **Waste Classification System** is an AI-powered tool designed to classify household waste into different categories, enabling effective recycling and waste management. By leveraging advanced deep learning models, the system simplifies waste segregation, ensuring accurate classification for improved recycling processes.
+
+With support for both image uploads and real-time camera-based classification, the system is user-friendly and accessible. It minimizes errors in waste sorting, promotes responsible disposal practices, and contributes to environmental conservation efforts by reducing landfill waste and supporting sustainable resource management.
 
 ### 📊 Dataset
 
