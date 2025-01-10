@@ -100,9 +100,9 @@ pip install -r project_files/requirements.txt
 ```
 
 4. **Run the Application**:
-``bash
+```bash
 streamlit run app.py
-``
+```
 
 ## 🚀 Deployment
 The application is deployed using Streamlit for easy web access. Future plans include deploying the project on Microsoft Azure for better scalability.
