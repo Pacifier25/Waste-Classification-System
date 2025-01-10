@@ -74,6 +74,12 @@ The system uses **ResNet50**, a powerful pre-trained Convolutional Neural Networ
 
 ---
 
+
+## 🎥 Demo Video
+[Watch Demo Video]
+
+---
+
 ## 💻 Installation Guide
 
 ### Prerequisites
