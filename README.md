@@ -53,7 +53,7 @@ The system uses **ResNet50**, a powerful pre-trained Convolutional Neural Networ
 ├── model 
 ├── waste_classification_model.h5 
 └── README.md
-
+```
 
 ---
 
