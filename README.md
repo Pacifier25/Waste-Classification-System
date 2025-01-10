@@ -76,7 +76,7 @@ The system uses **ResNet50**, a powerful pre-trained Convolutional Neural Networ
 
 
 ## 🎥 Demo Video
-[Watch Demo Video]
+[Watch Demo Video](https://drive.google.com/file/d/1XBXA0wtbkkW88lU5drZ4z9-CepL-8ccW/view?usp=sharing)
 
 ---
 
