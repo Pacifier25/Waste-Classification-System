@@ -85,20 +85,22 @@ The system uses **ResNet50**, a powerful pre-trained Convolutional Neural Networ
 ```bash
 git clone https://github.com/Pacifier25/Waste-Classification-System.git
 cd Waste-Classification-System
-
-Create Virtual Environment:
-bash
+```
+2. **Create Virtual Environment**:
+``bash
 Copy code
 python -m venv env
 source env/bin/activate      # For Linux/Mac
 env\Scripts\activate         # For Windows
-
-Install Dependencies:
-
+```
+3. **Install Dependencies**:
+``bash
 pip install -r project_files/requirements.txt
-
-Run the Application:
-streamlit run project_files/app.py
+```
+``bash
+4. **Run the Application**:
+streamlit run app.py
+``
 
 ## 🚀 Deployment
 The application is deployed using Streamlit for easy web access. Future plans include deploying the project on Microsoft Azure for better scalability.
