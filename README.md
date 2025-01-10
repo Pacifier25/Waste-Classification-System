@@ -109,18 +109,23 @@ pip install -r project_files/requirements.txt
 ```bash
 streamlit run app.py
 ```
-
+---
 ## 🚀 Deployment
 The application is deployed using Streamlit for easy web access. Future plans include deploying the project on Microsoft Azure for better scalability.
 
+---
+
 ## 📥 Download
 **[Click here to download the project files](https://github.com/Pacifier25/Waste-Classification-System/archive/refs/heads/main.zip)**
+
+---
 
 ## 🙏 Acknowledgements
 - **Dataset**: [Garbage_classification](https://www.kaggle.com/datasets/mostafaabla/garbage-classification).
 - **Model**: ResNet50, a pre-trained deep learning model from Keras.
 - **Frameworks**: TensorFlow, Streamlit
 
+---
 
 This `README.md` file includes sections for project description, dataset details, model used, accuracy, features, technology stack, folder structure, results, installation guide, and deployment details.
 
